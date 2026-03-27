@@ -1,1 +1,1 @@
-# typeofCaM-clarifi-privacy-policy
+# clarifi-privacy-policy
